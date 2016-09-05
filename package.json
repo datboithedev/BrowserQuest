@@ -11,7 +11,7 @@
     , "sanitizer": ">0"
     , "memcache": "0.3.0"
   , "engines": {
-    , "node": "4.1.1"
-    , "npm": "3.8.6"
+     "node": "4.1.1"
+     "npm": "3.8.6"
     },
 }
